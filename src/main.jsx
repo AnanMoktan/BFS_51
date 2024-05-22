@@ -6,7 +6,7 @@ function App() {
   const headerStyle = {
     backgroundColor: "#333",
     color: "#fff",
-    padding: "1em 0",
+    padding: "0.9em 0",
     textAlign: "center",
   };
 
